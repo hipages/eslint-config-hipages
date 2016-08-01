@@ -22,4 +22,4 @@ Add `.eslintrc.json` to your project.
 
 We extend from [AirBnb's rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
 
-Our exceptions can be found in [our config](https://github.com/Prismatik/eslint-config-hipages/blob/master/index.js).
+Our exceptions can be found in [our config](https://github.com/hipagees/eslint-config-hipages/blob/master/index.js).
