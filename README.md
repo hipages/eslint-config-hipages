@@ -4,7 +4,7 @@ hipages's eslint configurations
 ## Getting started
 
 ```
-npm install --save-dev eslint-config-hipages
+npm install git+https://github.com/hipagesgroup/eslint-config-hipages --save-dev
 ```
 
 Add `.eslintrc.json` to your project.
