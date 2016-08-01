@@ -1,5 +1,5 @@
 # eslint-config-hipages
-hipages's eslint configurations
+hipagess' eslint configurations
 
 ## Getting started
 
