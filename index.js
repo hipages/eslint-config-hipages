@@ -50,7 +50,7 @@ module.exports = {
     ],
 
     'mocha/no-exclusive-tests': [
-      2, 'never'
+      2
     ],
 
     // http://eslint.org/docs/rules/func-names
