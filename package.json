@@ -14,7 +14,7 @@
     "eslint",
     "eslintconfig"
   ],
-  "author": "Hipagesgroup",
+  "author": "hipages",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hipages/eslint-config-hipages/issues"
