@@ -1,4 +1,7 @@
 # eslint-config-hipages
+
+[![npm version](https://badge.fury.io/js/eslint-config-hipages.svg)](https://badge.fury.io/js/eslint-config-hipages)
+
 hipages' eslint configurations
 
 ## Getting started
